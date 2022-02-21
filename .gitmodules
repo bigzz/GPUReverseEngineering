@@ -1,0 +1,39 @@
+[submodule "Apple/applecpu"]
+	path = Apple/applecpu
+	url = https://github.com/dougallj/applecpu
+[submodule "Apple/applegpu"]
+	path = Apple/applegpu
+	url = https://github.com/dougallj/applegpu
+[submodule "Apple/applegpu_wrap"]
+	path = Apple/applegpu_wrap
+	url = https://github.com/AsahiLinux/gpu.git
+[submodule "Mali/bifrostc"]
+	path = Mali/bifrostc
+	url = https://gitlab.freedesktop.org/panfrost/bifrostc
+[submodule "Mali/bifrost.rs"]
+	path = Mali/bifrost.rs
+	url = https://gitlab.freedesktop.org/panfrost/bifrost.rs
+[submodule "Mali/mali-isa-docs"]
+	path = Mali/mali-isa-docs
+	url = https://gitlab.freedesktop.org/panfrost/mali-isa-docs
+[submodule "Mali/valhall-docs"]
+	path = Mali/valhall-docs
+	url = https://gitlab.freedesktop.org/panfrost/valhall-docs
+[submodule "Adreno/freedreno"]
+	path = Adreno/freedreno
+	url = https://github.com/freedreno/freedreno
+[submodule "Adreno/libdrm"]
+	path = Adreno/libdrm
+	url = https://github.com/freedreno/libdrm
+[submodule "Mali/panloader"]
+	path = Mali/panloader
+	url = https://gitlab.freedesktop.org/panfrost/panloader
+[submodule "Mali/midgard-performance-analyze"]
+	path = Mali/midgard-performance-analyze
+	url = https://gitlab.freedesktop.org/panfrost/midgard-performance-analyze
+[submodule "Mali/shader-db"]
+	path = Mali/shader-db
+	url = https://gitlab.freedesktop.org/panfrost/shader-db
+[submodule "Mali/ShaderProgramDisassembler"]
+	path = Mali/ShaderProgramDisassembler
+	url = https://gitlab.freedesktop.org/panfrost/ShaderProgramDisassembler
